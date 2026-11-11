@@ -503,322 +503,217 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Brake_Disk_D
-    second: {fileID: 2800000, guid: af969d0387854a84d802011348aa7362, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Brake_Disk_N
-    second: {fileID: 2800000, guid: 4e46391eece340b419b7409d8e14314c, type: 3}
+    second: {fileID: 2800000, guid: f01f59a463f153b4f89cf90a1b911936, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: CAR_PAINT_R
-    second: {fileID: 2800000, guid: 3c6ca396e8defdc4d8dbe3c731384498, type: 3}
+    second: {fileID: 2800000, guid: 44e78e8d1c162544b8306802e7e16491, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: DodgeChargerSRTHellcat_Details_Diffuse
-    second: {fileID: 2800000, guid: 0af5f9b4a28e58847a0f7cd6e1ac20fa, type: 3}
+    second: {fileID: 2800000, guid: ea771438cc4ab5d46a52b1309f74c7c2, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Headlight_Reflector
-    second: {fileID: 2800000, guid: eb1a139c50c3c7146b4cbd542a169076, type: 3}
+    second: {fileID: 2800000, guid: c35176c8285269a4c83e7cbab4099e92, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: INTERNAL_glass
-    second: {fileID: 2800000, guid: 365d1c7480550dc4bae8788187d30a46, type: 3}
+    second: {fileID: 2800000, guid: 6d7aee45981f27d4b8dcd8a59e3a883a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: INTEXT_AO
-    second: {fileID: 2800000, guid: b4782f0b6ffbbce4786f1997ca9823db, type: 3}
+    second: {fileID: 2800000, guid: 8502bb9d2d790c240b17f087e5440b0b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: INT_Belt_D
-    second: {fileID: 2800000, guid: 1002863364a1a2f4692a2e2db1888993, type: 3}
+    second: {fileID: 2800000, guid: b7ffa26716c560e4d8223e5149bb5ac2, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: INT_Carpet_black_DIF
-    second: {fileID: 2800000, guid: c6bd04bd95ace3f47918073b8433cf28, type: 3}
+    second: {fileID: 2800000, guid: 43208b4a0c2ca14419645d0e24d3f096, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: INT_Leather_Perforatedb
-    second: {fileID: 2800000, guid: fe81bc1aefeb3f84a853ef7245054992, type: 3}
+    second: {fileID: 2800000, guid: 7e83ba6333af9b84297d4e6e0970dea9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: INT_Plastic_Slush_blk_DIF
-    second: {fileID: 2800000, guid: 2ef06e8f4a799ce42be92a7d71a5281b, type: 3}
+    second: {fileID: 2800000, guid: 9ba517fa739e7004f82cd7690614e672, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Mirror
-    second: {fileID: 2800000, guid: 7258fae3ee3d6524990005c388ddbf9f, type: 3}
+    second: {fileID: 2800000, guid: 7b34fabc1b983614d9264a1f1b5d7196, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: alcnt
-    second: {fileID: 2800000, guid: 7801db0dddd4cc24a89a65acc7a5eed8, type: 3}
+    second: {fileID: 2800000, guid: cc789abddc07f4048b7ed20035b4ae62, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: black
-    second: {fileID: 2800000, guid: 0ab6f43057ecab043b15b7add28909e4, type: 3}
+    second: {fileID: 2800000, guid: cac9d5dda7d063948b8e05d96301b339, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: black_30_percent_alpha
-    second: {fileID: 2800000, guid: 270d38c5bf1fa464bb8c01ff7cd5c8b7, type: 3}
+    second: {fileID: 2800000, guid: b15e7ccb4554f90479417718d273516a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: black_matte_spec
-    second: {fileID: 2800000, guid: fd454ebd718f6e3418264b2169dba566, type: 3}
+    second: {fileID: 2800000, guid: 50fcd59f21a511941b749d81f680aea6, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: car_paint
-    second: {fileID: 2800000, guid: 8e5d059e2f3d73645a9e60a6b0e9ac7e, type: 3}
+    second: {fileID: 2800000, guid: 038db1949167fc14aa539271a5023ece, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: carbon_fiber
-    second: {fileID: 2800000, guid: 3f9fc3015bb763a4295aa4512ab8a07d, type: 3}
+    second: {fileID: 2800000, guid: 628e88f697a106c478c75b66e77b2387, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: chrome
-    second: {fileID: 2800000, guid: fe94ec9818c356f478ca73bdb0b43b8c, type: 3}
+    second: {fileID: 2800000, guid: c9596a0230d350d49889c5896c4f13de, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: chrome86effect
-    second: {fileID: 2800000, guid: 7bcffd6c8db57b341992c7f0a351e00d, type: 3}
+    second: {fileID: 2800000, guid: 7714dbc56fa9ded4399c645d3ebd074f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: chrome_hellcat_badge
-    second: {fileID: 2800000, guid: 9e0e62c0681dc1b4bac041d4d1ac7690, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: dinghyblack
-    second: {fileID: 2800000, guid: 422f6dcd279a7a84c977b3de5a3f55f1, type: 3}
+    second: {fileID: 2800000, guid: d1d37f61864c7e448882f2b9310eb78d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: dod_chargerfast7_15_tach_graphics
-    second: {fileID: 2800000, guid: 17503aa27fe1ffe4f8333bb2da893020, type: 3}
+    second: {fileID: 2800000, guid: 9115cc83efa36b74e94cd34e877d1e77, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: dod_chargersrthellcat_15_gauges_diff
-    second: {fileID: 2800000, guid: dc383dbba3c7670458b338f3a0aef400, type: 3}
+    second: {fileID: 2800000, guid: 4cd363d81e65f3a4bbae4864f818b1b8, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: dod_chargersrthellcat_15_symbols_diff
-    second: {fileID: 2800000, guid: 8582d61257fc4af4099a4f63cf130ace, type: 3}
+    second: {fileID: 2800000, guid: 01f5dc5d56253444e876f0fd93b7fc4a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: dod_chargersrthellcat_15_symbols_embossed
-    second: {fileID: 2800000, guid: c9a177c2006ba984f81766ff63c9434c, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: dod_chargersrthellcat_15_symbols_embossed_nrml
-    second: {fileID: 2800000, guid: d6b68eb08ab50c94a8e6d276f042c8e0, type: 3}
+    second: {fileID: 2800000, guid: aa37941fd21f0294fb21fb8c2585a378, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: dueleratnik
-    second: {fileID: 2800000, guid: e66c92d20d947d74684c3d970f0b0dc3, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: dueleratnik_n
-    second: {fileID: 2800000, guid: 1d7c806f8df56a64dabbb80614516ed6, type: 3}
+    second: {fileID: 2800000, guid: 8f715616ea1845343bb3ffeafbe54132, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: emergrx
-    second: {fileID: 2800000, guid: 60c1b42d7de3b9b4dabadf8de40fbe3d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: emergrx_n
-    second: {fileID: 2800000, guid: fb7c394c82aa27545a7a62c1d35f71c9, type: 3}
+    second: {fileID: 2800000, guid: fdfd8ea48855fad4ba6e0b99faa2c449, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: ext_glass
-    second: {fileID: 2800000, guid: 2e0bc3e685839ff4f9db68f3f536c9e2, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: fabric_roof_nr
-    second: {fileID: 2800000, guid: d7565a536f5849142a7046357e2679a7, type: 3}
+    second: {fileID: 2800000, guid: a99931b1c17263a40b0e9623281678d9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: grill2
-    second: {fileID: 2800000, guid: bf92136c198bfa94081bb2b3bfba443e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: indi_NORM
-    second: {fileID: 2800000, guid: 330b88190e52c0141bfec029ee60d472, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: key_hole_002_nrml
-    second: {fileID: 2800000, guid: 8c6e6bda9a0cf7043bf9219d565a2a42, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: kraska_km_noalpha
-    second: {fileID: 2800000, guid: 4c5a48b7d570dae4ea3a42b7b9c76cd2, type: 3}
+    second: {fileID: 2800000, guid: 2cafc9e8739538b4ba05e6b0820c9584, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: leather
-    second: {fileID: 2800000, guid: 5e88bedb112af8443b99f30b344c0606, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: leather1_n
-    second: {fileID: 2800000, guid: fcfa5ffbf8a92794da12cf24d1d271fc, type: 3}
+    second: {fileID: 2800000, guid: 37f547a90a6ef6a4faabee94876e7320, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: leather2
-    second: {fileID: 2800000, guid: da0c13394e02c5c469eac330b8454675, type: 3}
+    second: {fileID: 2800000, guid: 7306642d0ef481042827505c00f95af0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: leather_2
-    second: {fileID: 2800000, guid: 83bbc7a230172ec4297722ad772ade3f, type: 3}
+    second: {fileID: 2800000, guid: 7a7129165ebbefd448dbd1ccf1b618a6, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: leather_3
-    second: {fileID: 2800000, guid: 39c1a8843ab40d440a125da7313d6a5d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: light1_NORM
-    second: {fileID: 2800000, guid: ee78150d5e021f64e9a82b1ee16b23a4, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: light_NORM
-    second: {fileID: 2800000, guid: cc376e29bad0ac44ea98de0fdde39cfb, type: 3}
+    second: {fileID: 2800000, guid: 91b41265515c2164daa3bde67fe76f9c, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: par
-    second: {fileID: 2800000, guid: d7dedc2f820791c49ad11f4fc0fac0ed, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: par_NORM
-    second: {fileID: 2800000, guid: e1f1d06439bdca948aeccd99febb386e, type: 3}
+    second: {fileID: 2800000, guid: 051208af83f73ed4fb381ef4e953b0f0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: plastic
-    second: {fileID: 2800000, guid: 253170bfc98220c4f8415ca4c29938e2, type: 3}
+    second: {fileID: 2800000, guid: 5c096c2d82c525c4eae5fb616e50d427, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: plastic_leather_blk
-    second: {fileID: 2800000, guid: 4e8015706395c3b45bfd32fd1428d7b3, type: 3}
+    second: {fileID: 2800000, guid: 1fe3832a72d734f42890938fb8e7cc7a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: red
-    second: {fileID: 2800000, guid: 037caea7025abbc49acbeff055e579ab, type: 3}
+    second: {fileID: 2800000, guid: 79c97fdf5bfb7ba40af47c53c229a21d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: red1
-    second: {fileID: 2800000, guid: 51718ed19a9cc2649b3d5743c84faa1f, type: 3}
+    second: {fileID: 2800000, guid: dd01b8418a3391e4f800946d21ebf2ee, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: red_80_percent_alpha
-    second: {fileID: 2800000, guid: 649a591df32dd8b47aaa184b9dbbcda6, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: screw_002_lcao_aee80ee9-c206-41
-    second: {fileID: 2800000, guid: c7744e375d3562045b51b8f536b6507b, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: screw_002_nrml_69454ec8-fd9d-4c
-    second: {fileID: 2800000, guid: e88c316470c913242933b8351c6a76c1, type: 3}
+    second: {fileID: 2800000, guid: a592e622b48e39b4b80dc96b160f3d6b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: speaker_diff
-    second: {fileID: 2800000, guid: db737d4d4771dde469deff88e9bc5dc7, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: srt_001_nrml
-    second: {fileID: 2800000, guid: 8c5f14263ca4d2b4aaddca9d29442683, type: 3}
+    second: {fileID: 2800000, guid: 3c52ee770c3e0e147860ebfcc15f5aed, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: srt_02_env
-    second: {fileID: 2800000, guid: bf9501bbe466f334b96a15b2ef19ed75, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: srt_02_nrml
-    second: {fileID: 2800000, guid: ca97c4c38ab6f794dbed757ba1c55192, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: stitch_003
-    second: {fileID: 2800000, guid: 0cdb24b47ccaed74cab61f65226f044b, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: stitch_003_nrml
-    second: {fileID: 2800000, guid: 0ccf298d05952e64d8e0cf7d384ee959, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: t_NORM
-    second: {fileID: 2800000, guid: e2e277f906d29fa4b80580e1f7031e37, type: 3}
+    second: {fileID: 2800000, guid: 221929d93093b444b90e43504eaf49f5, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: tech-slide-5
-    second: {fileID: 2800000, guid: 5a2cdd142b2aead4eab3e41b7cb25a62, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: vehiclelights128_NORM
-    second: {fileID: 2800000, guid: eea26f7a7d26d554598aa3f47ec9551d, type: 3}
+    second: {fileID: 2800000, guid: 3febaeb81e80fd14b8a0b14dca7d2fa9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: vitres_exterieur
-    second: {fileID: 2800000, guid: c6b29e2c2bebda349815bd65399d0435, type: 3}
+    second: {fileID: 2800000, guid: 01d2e8abcf38ec74b88115819fff50ab, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: win
-    second: {fileID: 2800000, guid: 0cf5d4fbf56709a4ab8dbad03162c69b, type: 3}
+    second: {fileID: 2800000, guid: 28dad56e8a44fab4c90ac442bd617efc, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
