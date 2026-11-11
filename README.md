@@ -70,5 +70,5 @@ Después de estos commits se configuró Git LFS, se reemplazó el cubo por el mo
 
 ## Créditos
 
-- **Modelo 3D:** "Dodge Charger SRT Police" por [AUTOR](ENLACE_AL_MODELO), descargado de Sketchfab. Licencia: [LICENCIA].
+- **Modelo 3D:** "Dodge Charger SRT Police" por [temich](https://sketchfab.com/3d-models/dodge-charger-srt-police-c6d52512e32d42abb89466ced4d56c1d), descargado de Sketchfab. Licencia: [LICENCIA].
 - Proyecto realizado como parte del Taller Práctico de Unity – Escena Invernal.
